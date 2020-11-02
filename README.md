@@ -4,6 +4,10 @@ This Team Generator is an application run through Node on the command line. It a
 
 ![MyTeam](https://user-images.githubusercontent.com/65461462/97823278-58195400-1c6d-11eb-9570-9c81f5545208.PNG)
 
-# Demo
+# Installation
+To Install the dependencies you should run the following command:
+<pre><code>npm install</code></pre>
 
-<iframe src="https://drive.google.com/file/d/1hI1Be_ba_mu56t6KczxOaKQCWiDfzD0y/preview" width="640" height="480"></iframe>
+# Tests
+To run tests you should run the following command:
+<pre><code>npm test</code></pre>
